@@ -9,6 +9,7 @@ public class Main {
             System.out.println(mother2.toString());
             System.out.println(mother2.getInfo());
         }
+        System.out.println("");
 
 
 
